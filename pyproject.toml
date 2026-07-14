@@ -1,0 +1,8 @@
+[project]
+name = "abdullah-tech"
+version = "1.0.0"
+dependencies = ["flet>=0.28.0"]
+
+[tool.flet]
+product = "Abdullah Tech"
+org = "com.abdullahtech"
